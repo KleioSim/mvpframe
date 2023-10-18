@@ -1,0 +1,16 @@
+{
+    "name": "KleioSim.MVPFrame",
+    "rootNamespace": "KleioSim.MVPFrame",
+    "references": [],
+    "includePlatforms": [
+    ],
+    "excludePlatforms": [
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
